@@ -23,6 +23,6 @@
 </html>
 ```
 
-#Sejarah HTML
+# Sejarah HTML
 
 HTML dimulai pada tahun 1991 ketika Tim Berners-Lee di CERN menciptakan versi pertama untuk berbagi dokumen penelitian
