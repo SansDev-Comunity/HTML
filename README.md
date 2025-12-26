@@ -25,4 +25,4 @@
 
 # Sejarah HTML
 
-HTML dimulai pada tahun 1991 ketika Tim Berners-Lee di CERN menciptakan versi pertama untuk berbagi dokumen penelitian
+HTML dimulai pada tahun 1991 ketika Tim Berners-Lee di CERN menciptakan versi pertama untuk berbagi dokumen penelitian, berkembang dari 18 tag awal menjadi standar web resmi yang dikelola W3C, dengan puncaknya adalah HTML5 (2014) yang membawa fitur semantik modern seperti <article> dan <footer>, memungkinkan konten web lebih kaya dan interaktif. 
