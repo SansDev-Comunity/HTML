@@ -19,4 +19,4 @@ Di bagian akhir, kami menambahkan tag ukuran width dan height untuk mengatur leb
 
 # Output
 
-![image]([https://raw.githubusercontent.com/SansDev-Comunity/sunset-brew-coffee/refs/heads/main/assets/img/Sunset_Brew.png](https://ugm.ac.id/wp-content/uploads/2021/12/09122116390430331217170805-765x510.jpg))
+![image](https://ugm.ac.id/wp-content/uploads/2021/12/09122116390430331217170805-765x510.jpg)
