@@ -8,7 +8,7 @@ img
 Namun, perlu diingat bahwa Anda tidak bisa langsung memasukkan file gambar ke HTML. Anda perlu menyimpannya dulu di suatu lokasi, lalu merujuknya menggunakan atribut seperti src dan alt agar gambar bisa ditampilkan dengan benar.
 
 ```
-<img src="gambar-pemandangan.jpg" alt="Pemandangan Indah di Pegunungan" width="300" height="200">
+<img src="[gambar-pemandangan.jpg](https://raw.githubusercontent.com/SansDev-Comunity/sunset-brew-coffee/refs/heads/main/assets/img/Sunset_Brew.png)" alt="Logo Sunset Brew" width="300" height="200">
 ```
 
 Pada contoh di atas, src menunjukkan lokasi file atau URL gambar. Anda bisa memasukkan link gambar dari internet atau alamat dari folder lokal di perangkat Anda.
