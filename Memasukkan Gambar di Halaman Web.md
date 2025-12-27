@@ -8,7 +8,7 @@ img
 Namun, perlu diingat bahwa Anda tidak bisa langsung memasukkan file gambar ke HTML. Anda perlu menyimpannya dulu di suatu lokasi, lalu merujuknya menggunakan atribut seperti src dan alt agar gambar bisa ditampilkan dengan benar.
 
 ```
-<img src="Sunset Brew.png" alt="Logo Sunset Brew" width="300" height="200">
+<img src="Mauntain.png" alt="Gunung" width="300" height="200">
 ```
 
 Pada contoh di atas, src menunjukkan lokasi file atau URL gambar. Anda bisa memasukkan link gambar dari internet atau alamat dari folder lokal di perangkat Anda.
@@ -19,4 +19,4 @@ Di bagian akhir, kami menambahkan tag ukuran width dan height untuk mengatur leb
 
 # Output
 
-![image](https://raw.githubusercontent.com/SansDev-Comunity/sunset-brew-coffee/refs/heads/main/assets/img/Sunset_Brew.png)
+![image]([https://raw.githubusercontent.com/SansDev-Comunity/sunset-brew-coffee/refs/heads/main/assets/img/Sunset_Brew.png](https://ugm.ac.id/wp-content/uploads/2021/12/09122116390430331217170805-765x510.jpg))
