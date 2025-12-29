@@ -7,3 +7,15 @@ Bullet point berfungsi untuk mencantumkan daftar dengan simbol tertentu, biasany
 - Ini adalah poin ketiga dalam daftar.
 
 Di HTML, Anda bisa membuat daftar tersebut menggunakan tag ul yang berasal dari kata unordered list, lalu menambahkan setiap poin menggunakan tag li.
+
+Berikut contoh HTML untuk membuat daftar dengan bullet poin:
+
+```
+<ul>
+  <li>ni adalah poin pertama dalam daftar.</li>
+  <li>ni adalah poin kedua dalam daftar.</li>
+  <li>ni adalah poin ketiga dalam daftar.</li>
+</ul>
+```
+
+## Output
