@@ -37,3 +37,13 @@ untuk daftar dengan angka romawi besar.
 <ol type=”i”>
 ``` 
 untuk daftar dengan angka romawi kecil.
+
+Misalnya, coba kode berikut:
+
+```
+<ol>
+  <li>Pertama, buka hPanel dan pilih menu website.</li>
+  <li>Klik tombol <strong>Dashboard</strong> di samping website Anda.</li>
+  <li>Di bagian dashboard, temukan dan pilih <strong>File Manager</strong>.</li>
+</ol>
+```
