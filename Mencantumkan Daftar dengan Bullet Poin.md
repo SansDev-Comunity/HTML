@@ -19,3 +19,5 @@ Berikut contoh HTML untuk membuat daftar dengan bullet poin:
 ```
 
 ## Output
+
+![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/Mencantumkan%20Daftar%20dengan%20Bullet%20Poin.png)
