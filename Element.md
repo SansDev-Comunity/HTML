@@ -15,4 +15,4 @@
 
 # Output
 
-![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/Heading%20dan%20Paragraf.png)
+![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/Elements.png)
