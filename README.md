@@ -49,11 +49,3 @@ HTML dimulai pada tahun 1991 ketika Tim Berners-Lee di CERN menciptakan versi pe
 
 - Inovasi: Setiap versi menambahkan tag dan atribut baru untuk memenuhi kebutuhan web yang semakin kompleks, dari teks sederhana hingga konten multimedia yang kaya.
 
-# Tag dan Elemen HTML
-
-penanda perintah di HTML di sebut Tag.
-untuk membuat tampilan di dokumen yang berpasangan dengan format berikut:
-
-```
-<BEGIN TAG> isi dokumen </EnNDTAG>
-```
