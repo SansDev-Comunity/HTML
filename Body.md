@@ -67,9 +67,10 @@ Ganti-ganti gambar warna nya dengan warna lain sesuai tabel berikut.
 
 
 | black | #000000 | blue | #0000ff | olive | #8080000
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | white | #000000 | blue |
 | red | #FFFFFF | fuchsia |
 | yellow | #FF0000 | gray |
 | lime | #FFFF00| silver |
-| :--- | :--- | :--- | :--- | :--- | :--- |
+
 | **[lime](#00ff00)** | #00FF00 | maroon |
