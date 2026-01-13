@@ -77,14 +77,19 @@ Ganti-ganti gambar warna nya dengan warna lain sesuai tabel berikut.
 4. Buka Notepad++, tulis kode berikut
 
 ```
-<HTML>
-  <HEAD>
-    <Title> Karya Pertama Ku </Title>
-  </HEAD>
-  <BODY BGCOLOR = "yelow' TEXT = "red">
+<html>
+
+<head>
+    <title>Karya Pertama Ku</title>
+</head>
+
+<body bgcolor="yelow" text=" red ">
     Tulisan ini akan tampak dalam browser.
-  </BODY>
-</HTML>
+</body>
+
+</html>
 ```
 
 Simpan ke dalam karya.html kemudian buka melalui browser
+
+![image]()
