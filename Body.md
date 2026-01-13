@@ -92,4 +92,4 @@ Ganti-ganti gambar warna nya dengan warna lain sesuai tabel berikut.
 
 Simpan ke dalam karya.html kemudian buka melalui browser
 
-![image]()
+![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/karya.png)
