@@ -4,7 +4,7 @@ Penulisan paragraf bisa menggunakan tag <p> memformat tulisan / teks bisa berbag
 
 | Tag | Deskripsi 
 | :--- | :--- | 
-| white | #000000 
+| <b> | Membuat teks bercetak tebal
 | red | #FFFFFF 
 | yellow | #FF0000 
 | lime | #FFFF00
