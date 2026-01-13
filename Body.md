@@ -19,4 +19,9 @@ Keterangan:
 ● text memberikan warna pada teks <br>
 ● bgcolor: memberikan warna pada latar belakang dokumen HTML dan bentuk gambar <br>
 ● background: memberikan latar belakang dokumen HTML dalam bentuk gambar <br>
-●
+● link: memberikan warna untuk link <br>
+● alink: memberikan warna untuk link yang sedang aktif <br>
+● vlink: memberi warna untuk link yang telah di kunjungi <br>
+
+Contoh <br>
+1. Bukalah Notepad++, Kemudian tuliskan kode berikut
