@@ -54,7 +54,7 @@ Simpan ke dalam background.html
 
 3. Bukalah Notepad++, kemudian tulis kode berikut
 
-   ```
+```
 <HTML>
   <BODY BGCOLOR = "#FFFF000' TEXT = "#FF0000">
     Tulisan ini akan tampak dalam browser.
