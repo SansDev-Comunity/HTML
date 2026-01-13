@@ -25,3 +25,13 @@ Keterangan:
 
 Contoh <br>
 1. Bukalah Notepad++, Kemudian tuliskan kode berikut
+
+```
+<HTML>
+  <Body>
+  Tuliskan ini akan tampak di dalam browser
+  </Body>
+</HTML>
+```
+
+Smpan di dalam body.html kemuadian buka body.html menggunakan browser
