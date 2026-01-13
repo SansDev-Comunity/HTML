@@ -49,3 +49,5 @@ Smpan di dalam body.html kemuadian buka body.html menggunakan browser
 ```
 
 Simpan ke dalam background.html
+
+![image]()
