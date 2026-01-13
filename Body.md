@@ -37,3 +37,15 @@ Contoh <br>
 Smpan di dalam body.html kemuadian buka body.html menggunakan browser
 
 ![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/body_html.png)
+
+2. Buka Notepad++, tuliskan kode berikut
+
+```
+<HTML>
+  <BODY BGCOLOR = "yelow' TEXT = "red">
+    Tulisan ini akan tampak dalam browser.
+  </BODY>
+</HTML>
+```
+
+Simpan ke dalam background.html
