@@ -10,3 +10,7 @@ Penulisan paragraf bisa menggunakan tag <p> memformat tulisan / teks bisa berbag
 | small | membuat teks bercetak kecil
 | strong | menyatakan bahwa teks tersebut penting
 | sub | Membuat teks tercetak sebagai subscript
+| sup | Membuat teks bercetak seperti supercript
+| ins | Menyatakan teks yang di apit tag ins itu di sisipkan
+| del | Menyatakan teks yang di apit tag del itu di hapus atau del
+| mark | Menyatakan teks yang di tandai efeknya seperti tulisan yang di beri "Stabilo"
