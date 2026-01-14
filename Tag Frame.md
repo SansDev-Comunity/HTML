@@ -25,3 +25,31 @@ Contoh:
       </body>
    </html>
    ```
+Simpan dengan nama: framekanan.html
+
+   ```
+    <html>
+      <head>
+          <title>Frame Kiri</title>
+      </head>
+   
+      <body bgcolor = "white">
+      <h1>Frame di sebelah Kiri</h1>
+      </body>
+   </html>
+   ```
+
+Simpan dengan nama: framekiri.html
+
+   ```
+    <html>
+      <head>
+          <title>Contoh Penggunaan Frame</title>
+      </head>
+   
+      <frameset cols = "30%">
+         <frame src="framekiri.html>
+         <frame src="framekanan.html>
+      </frameset>
+   </html>
+   ```
