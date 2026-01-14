@@ -28,8 +28,11 @@ Bukalah Notepad++, kemudian tulis kode berikut
     ada tiga macam tipe tulisan yang paling sering di gunakan 
     dalam penulisan dokumen apa saja <br>
     Ketiga tipe tersebut adalah tulisan <b> tulisan bercetak tebal </b>
-    tulisan <i>tulisan bercetak miring</i>
+    tulisan <i>tulisan bercetak miring</i> dan tulisan <u> bergaris bawah </u> atau tulisan
+    <i><u> miring dan bergaris bawah </i></u>. <br>
+    bahkan bisa ketiga tipe tulisan tersebut sekaligus
+    bergabung menjadi satu berupa tulisan <br>
+    <b><i><u>tebal, miring, dan bergaris bawah </b></i></u> 
 </body>
-
 </html>
 ```
