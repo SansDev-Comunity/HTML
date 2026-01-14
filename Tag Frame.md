@@ -19,6 +19,7 @@ Contoh:
       <head>
           <title>Frame Kanan</title>
       </head>
+   
       <body bgcolor = "white">
       <h1>Frame di sebelah Kanan</h1>
       </body>
