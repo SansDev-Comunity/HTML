@@ -14,7 +14,7 @@ Tag Frame mempunyai atribut
 Contoh:
 1. buka Notepad++, kemudian tulis kode berikut
 
-   ```
+```
     <html>
       <head>
           <title>Frame Kanan</title>
@@ -24,7 +24,7 @@ Contoh:
       <h1>Frame di sebelah Kanan</h1>
       </body>
    </html>
-   ```
+```
 Simpan dengan nama: framekanan.html
 
    ```
