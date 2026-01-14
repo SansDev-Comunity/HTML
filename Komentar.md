@@ -20,3 +20,5 @@ Buka Notepad++, kemudian tuliskan kode berikut dan simpan dalam file komentar.ht
 </html>
 ```
 Contoh di atas memiliki komentar dengan kode <!- warna bg jadi biru -->
+
+![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/Komentar.png)
