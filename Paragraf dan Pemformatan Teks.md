@@ -28,7 +28,7 @@ Bukalah Notepad++, kemudian tulis kode berikut
     ada tiga macam tipe tulisan yang paling sering di gunakan 
     dalam penulisan dokumen apa saja <br>
     Ketiga tipe tersebut adalah tulisan <b> tulisan bercetak tebal </b>
-tulisan <i>tulisan bercetak miring</i>
+    tulisan <i>tulisan bercetak miring</i>
 </body>
 
 </html>
