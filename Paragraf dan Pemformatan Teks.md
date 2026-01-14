@@ -15,7 +15,7 @@ Penulisan paragraf bisa menggunakan tag <p> memformat tulisan / teks bisa berbag
 | del | Menyatakan teks yang di apit tag del itu di hapus atau del
 | mark | Menyatakan teks yang di tandai efeknya seperti tulisan yang di beri "Stabilo"
 
-Bukalah Notepad++, kemudian tulis kode berikut
+1. Bukalah Notepad++, kemudian tulis kode berikut
 
 ```
 <html>
@@ -39,3 +39,23 @@ Bukalah Notepad++, kemudian tulis kode berikut
 Simpan ke dalam teks.html, Output:
 
 ![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/teks.png)
+
+Bukalah Notepad++, tulis kode berikut
+
+```
+<html>
+
+<head>
+    <title>Tipe-tipe Font</title>
+</head>
+
+<body>
+    <font face="Verdana"> Pendahuluan<br></font>
+    <p style="font-family: times">
+    Latar belakang <br>
+    Rumusan Masalah <br>
+    Tujuan penelitian <br>
+    </p>
+</body>
+</html>
+```
