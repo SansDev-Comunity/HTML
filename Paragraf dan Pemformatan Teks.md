@@ -14,3 +14,6 @@ Penulisan paragraf bisa menggunakan tag <p> memformat tulisan / teks bisa berbag
 | ins | Menyatakan teks yang di apit tag ins itu di sisipkan
 | del | Menyatakan teks yang di apit tag del itu di hapus atau del
 | mark | Menyatakan teks yang di tandai efeknya seperti tulisan yang di beri "Stabilo"
+
+Bukalah Notepad++, kemudian tulis kode berikut
+
