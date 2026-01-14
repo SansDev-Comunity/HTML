@@ -13,4 +13,4 @@ Untuk membuat frame, tag di gunakan adalah:
 
 - Tag FRAMESET
 - Tag FRAME
-- Tag <NOFRAME>.
+- Tag NOFRAME
