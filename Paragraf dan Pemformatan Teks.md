@@ -17,3 +17,17 @@ Penulisan paragraf bisa menggunakan tag <p> memformat tulisan / teks bisa berbag
 
 Bukalah Notepad++, kemudian tulis kode berikut
 
+```
+<html>
+
+<head>
+    <title>Tipe-tipe Teks</title>
+</head>
+
+<body>
+    ada tiga macam tipe tulisan yang paling sering di gunakan <br>
+    dalam penulisan dokumen apa saja ``` br```
+</body>
+
+</html>
+```
