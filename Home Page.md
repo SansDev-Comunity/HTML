@@ -14,11 +14,10 @@
     Mulai Partnership & Bangun Karir Bersama Kami <br>
     San di ambil dari kata Sunset dalam bahasa inggris yang artinya Matahari Terbenam.
     Yang rencana ke depan akan di buat <b> Bisnis atau Usaha Coffee Shop </b>
-    tulisan <i>tulisan bercetak miring</i> dan tulisan <u> bergaris bawah </u> atau tulisan
-    <i><u> miring dan bergaris bawah </i></u>. <br>
-    bahkan bisa ketiga tipe tulisan tersebut sekaligus
-    bergabung menjadi satu berupa tulisan <br>
-    <b><i><u>tebal, miring, dan bergaris bawah </b></i></u> 
+    <i>Fasilitas yang</i> Kami sediakan <u> Kerja </u> Magang
+    <i><u> Belajar </i></u>. <br>
+    bahkan main ge hingga ngobrol santai<br>
+    <b><i><u> mulai dari belajar IT, Main Musik, Kelas Bisnis dan lain sebagai nya </b></i></u> 
 </body>
 </html>
 ```
