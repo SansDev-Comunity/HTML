@@ -28,10 +28,10 @@
 
 <body bgcolor = "White">
     <ul>
-        <li><a href=#>Home</a></li>
-        <li><a href=#>Products</a></li>
-        <li><a href=#>About</a></li>
-        <li><a href=#>Contact</a></li>
+        <li><a href=#>Pendidikan</a></li>
+        <li><a href=#>Kesehatan</a></li>
+        <li><a href=#>Perekonomian</a></li>
+        <li><a href=#>Pariwisata</a></li>
     </ul>
 </body>
 </html>
