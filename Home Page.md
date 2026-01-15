@@ -13,7 +13,7 @@
     profile maupun portofolio pribadi kamu, Mulai dari SEO, Marketing, etc <br>
     Mulai Partnership & Bangun Karir Bersama Kami <br>
     San di ambil dari kata Sunset dalam bahasa inggris yang artinya Matahari Terbenam.
-    Yang rencana ke depan akan di buat Bisnis atau Usaha Coffee Shop <b> tulisan bercetak tebal </b>
+    Yang rencana ke depan akan di buat <b> Bisnis atau Usaha Coffee Shop </b>
     tulisan <i>tulisan bercetak miring</i> dan tulisan <u> bergaris bawah </u> atau tulisan
     <i><u> miring dan bergaris bawah </i></u>. <br>
     bahkan bisa ketiga tipe tulisan tersebut sekaligus
