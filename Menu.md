@@ -38,3 +38,24 @@
 ```
 
 ![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/menu2.png)
+
+```
+<html>
+
+<head>
+    <title>Menu</title>
+</head>
+
+<body bgcolor="White">
+    <ul>
+        <li><a href=#>Pendidikan</a></li>
+        <li><a href=#>Edukasi</a></li>
+        <li><a href=#>Musik</a></li>
+        <li><a href=#>Bahasa</a></li>
+    </ul>
+</body>
+
+</html>
+```
+
+![image]()
