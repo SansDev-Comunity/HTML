@@ -9,3 +9,5 @@
     </FRAMESET>
   </Frameset>
 ```
+
+![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/frame3bagian.png)
