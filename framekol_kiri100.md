@@ -1,1 +1,6 @@
 # Framekol Kiri 100
+
+  <Frameset cols="*,100">
+    <FRAME SRC="homepage.html" NAME="Frame1">
+    <FRAME SRC="menu.html" NAME="Frame2">
+  </Frameset>
