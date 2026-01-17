@@ -35,4 +35,4 @@ Bukalah Notepad++, kemudian tulis kode berikut
 
 ## Output
 
-![image]()
+![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/img.png)
