@@ -22,3 +22,13 @@ tag ini mempunyai dua METHOD yaitu:
 | METHOD | Untuk menentukan metode pengolahan form. pilihan
 |        | method adalah GET atau POST
 | ACTION | Untuk menentukan URL atau lokasi dari file yang di gunakan untuk mengolah form tersebut
+
+# Tag Texarea
+
+Tag TEXAREA di gunakan untuk membuat sebuah kotak teks multibaris.
+
+| ATRIBUT | KETERANGAN
+| :--- | :--- | 
+| NAME | Mendefinisikan nama texarea
+| ROWS | Menentukan berapa jumlah baris area
+| COLS | Menentukan lebar dari texarea
