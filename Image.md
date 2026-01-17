@@ -5,7 +5,7 @@ psling cocok untuk menambahkan di gunakan tag
 ```
 img
 ```
-| Atribut |<b> Keterangan </b>
+| Atribut | Keterangan
 | :--- | :--- | 
 | SRC | Menunjukan url atau direktori tempat file gambar berada
 | WIDTH | lebar gambar (dalam pixel)
