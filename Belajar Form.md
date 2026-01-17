@@ -30,3 +30,7 @@
 </HTML>
 
 ```
+
+# Output 
+
+![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/Form.png)
