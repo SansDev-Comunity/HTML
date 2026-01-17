@@ -1,1 +1,15 @@
 # Menambahkan Header
+
+```
+<table border="1">
+	<caption>Creating Table</caption>
+	<tr>
+		<th>Header 1</th>
+		<th>Header 2</th>
+		<th>Header 3</th>
+	</tr>
+</table>
+
+```
+
+## Output
