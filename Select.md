@@ -9,3 +9,15 @@
 | REQUIRED | Menyatakan bahwa user harus memilih sebelum form si submit (baru di HTML5)
 | MULTIPLE | Mengizinkan untuk memilih lebih dari satu
 | AUTOFOCUS | Memerintahkan browser agar drop-down list secara otomatis mendapatkan fokus pada saat halaman di muat ke browser
+
+# Tag Input
+
+Tag Input di gunakan untuk membuat elemen-elemen yang di gunakan untuk meminta informasi dari user.
+
+| ATRIBUT | KETERANGAN
+| :--- | :--- | 
+| NAME | Mendefinisikan nama dari elemen input. Atribut ini harus di tuliskan kecuali untuk tipe submit dan clear
+| SIZE |
+| VALUE |
+| CHECKED |
+| TYPE|
