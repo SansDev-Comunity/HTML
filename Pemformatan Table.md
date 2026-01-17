@@ -17,4 +17,4 @@ Untuk memformat perataan text di dalam table Anda gunakan atribut Align dan Vali
 </table>
 ```
 
-![image]()
+![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/performatan%20table.png)
