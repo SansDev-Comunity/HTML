@@ -44,4 +44,4 @@ Type input yang dapat di buat adalah:
 
 ## Output
 
-![image]()
+![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/select.png)
