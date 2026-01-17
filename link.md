@@ -2,7 +2,7 @@
 
 Link menjadi penghubung antara satu halaman dengan halaman lain,
 dengan satu alamat tertentu.
-jika link di klik maka dokumen HTML akan menuju ke halaman anchor, yaitu tag <a>
+jika link di klik maka dokumen HTML akan menuju ke halaman anchor, yaitu tag a
 
 Contoh:
 buka Notepad++, kemudian tuliskan kode berikut
@@ -31,5 +31,6 @@ buka Notepad++, kemudian tuliskan kode berikut
 ## Output
 
 ![image](https://raw.githubusercontent.com/SansDev-Comunity/HTML/refs/heads/main/img/link.png)
+
 
 
