@@ -1,6 +1,11 @@
 # HTML 5 Canvas
 
+Canvas adalah komponen utama yang membedakan HTML 5 dengan HTML versi sebelum nya
 
+### Membuat Segi Empat
+
+Contoh:
+Buka Notepad++ simpan ke dalam file canvasSegiEmpat.html
 
 ```
 <HTML>
