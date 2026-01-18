@@ -49,3 +49,15 @@ HTML dimulai pada tahun 1991 ketika Tim Berners-Lee di CERN menciptakan versi pe
 
 - Inovasi: Setiap versi menambahkan tag dan atribut baru untuk memenuhi kebutuhan web yang semakin kompleks, dari teks sederhana hingga konten multimedia yang kaya.
 
+# Pengantar HTML 5
+
+### Apa itu HTML 5
+
+HTML 5 adalah standar baru dari HTML, versi HTML sebelum nya adalah HTML 4 muncul pada tahun 1999.
+Internet mengalami perubahan yang sangat segnifikan sejak saat itu.
+HTML 5 juga cross-platform. artinya dapat menjalankan di berbagai platform dan device seperti tablet, smartphone, laptop, smart TV
+
+## Sejarah HTML 5
+
+HTML 5 adalah hasil kerja World Wide Web Consortium (W3C) Hypertext Aplication Tecnology Working Group
+(WHATWG) sedangkan W3C bekerja dengan XHTML.
