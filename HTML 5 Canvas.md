@@ -26,3 +26,5 @@ Buka Notepad++ simpan ke dalam file canvasSegiEmpat.html
 </HTML>
 
 ```
+
+![image]()
