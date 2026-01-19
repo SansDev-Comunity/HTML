@@ -111,3 +111,5 @@ Penjelasan:
     var plane = new Image();
     plane.src = "https://raw.githubusercontent.com/FebrianyRenata02/San-Digital-Academy/refs/heads/main/img/Agency%20Logo%20Transparant.png";
 ```
+
+2. Tentukan variable untuk pergerakan
