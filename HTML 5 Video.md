@@ -1,1 +1,28 @@
 # HTML 5 Video
+
+```
+<!DOCTYPE html>
+<html>
+
+    <head>
+    <title>Video</title>		
+</head>
+<body>
+    <h1>Sample Video</h1>
+    <video controls width="500" height="400" autoplay 
+    loop muted preload="auto" poster="poster.png" 
+    src="video/rabbit320.mp4">
+
+        <p>Your browser doesn't support HTML5 video. Here is a 
+          <a href="video/rabbit320.mp4">link to the video</a>
+          instead.
+        </p>
+        </video>			
+</body>
+</html>
+
+```
+
+# Output
+
+![image](https://raw.githubusercontent.com/SansDev-Comunity/Pengenalan-HTML/refs/heads/main/img/HTML%20Video.png)
