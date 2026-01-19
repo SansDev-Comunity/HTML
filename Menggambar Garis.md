@@ -25,3 +25,18 @@ kita bisa membuat garis dari titik (0,0) ke (200,100). Kemudian simpan kodenya d
 
 ## Output
 ![image](https://raw.githubusercontent.com/SansDev-Comunity/Pengenalan-HTML/refs/heads/main/img/Canvas%20Garis.png)
+
+Penjelasan
+
+1. Kursor di posisikan dulu pada titik (0,0) dengan kode berikut
+   
+```
+ctx.moveTo(0,0);
+```
+
+Setelah itu panggil method untuk menarik garis dari posisi kursor sekarang (0,0) ke tujuan (200,100). namun sampai tahap ini
+garis belum tergambaar
+
+```
+ctx.lineTo(200,100);
+```
