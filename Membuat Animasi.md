@@ -103,3 +103,11 @@ Berikut contoh kode untuk membuat animasi canvas, simpan kode ke dalam file anim
 ## Output
 
 ![image](https://raw.githubusercontent.com/SansDev-Comunity/Pengenalan-HTML/refs/heads/main/img/canvas%20animation.png)
+
+Penjelasan:
+1. Load image
+
+```
+    var plane = new Image();
+    plane.src = "https://raw.githubusercontent.com/FebrianyRenata02/San-Digital-        Academy/refs/heads/main/img/Agency%20Logo%20Transparant.png";
+```
