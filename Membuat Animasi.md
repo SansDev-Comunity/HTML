@@ -22,15 +22,15 @@ Berikut contoh kode untuk membuat animasi canvas, simpan kode ke dalam file anim
     <canvas id="canvas" width="300" height="300"></canvas>
 
     <script>
-        var plane = new Image();
-        plane.src = "https://raw.githubusercontent.com/FebrianyRenata02/San-Digital-Academy/refs/heads/main/img/Agency%20Logo%20Transparant.png";
+        var logo = new Image();
+        logo.src = "https://raw.githubusercontent.com/FebrianyRenata02/San-Digital-Academy/refs/heads/main/img/Agency%20Logo%20Transparant.png";
 
         var i = 0,
             i_obs = 0,
             left = 0,
             right = 1;
 
-        plane.onload = function() {
+        logo.onload = function() {
             setInterval(showAnimation, 30);
         };
 
@@ -65,13 +65,13 @@ Berikut contoh kode untuk membuat animasi canvas, simpan kode ke dalam file anim
 
             ctx.translate(i, 0);
 
-            // 🔥 PLANE (DIPERKECIL)
+            // 🔥 LOGO (DIPERKECIL)
             ctx.drawImage(
-                plane,
+                logo,
                 70,
                 240,
-                plane.width / 8,
-                plane.height / 8
+                logo.width / 8,
+                logo.height / 8
             );
 
             ctx.restore();
@@ -108,19 +108,19 @@ Penjelasan:
 1. Load image
 
 ```
-    var plane = new Image();
-    plane.src = "https://raw.githubusercontent.com/FebrianyRenata02/San-Digital-Academy/refs/heads/main/img/Agency%20Logo%20Transparant.png";
+        var logo = new Image();
+        logo.src = "https://raw.githubusercontent.com/FebrianyRenata02/San-Digital-Academy/refs/heads/main/img/Agency%20Logo%20Transparant.png";
 ```
 
 2. Tentukan variable untuk pergerakan. Var i untuk pergerakan plane dan i_obs untuk pergerakan obstacle. Var left dan right di gunakan untuk menentukan apakah plane bergerak ke kiri atau ke kanan
 
 ```
-var i = 0,
+  var i = 0,
             i_obs = 0,
             left = 0,
             right = 1;
 
-        plane.onload = function() {
+        logo.onload = function() {
             setInterval(showAnimation, 30);
         };
 ```
