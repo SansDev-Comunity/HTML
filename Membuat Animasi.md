@@ -148,32 +148,32 @@ Penjelasan:
 5. Tentukan pergerakan logo.. logo akan bergerak secara horizontal yang di tentukan oleh variable i. variable i akan bertambah saat bergerak ke kanan dan akan berhenti pada saat i = 70. Saat i = 70 logo bergerak ke kiri sampai i = 0
 
 ```
- // MOVE RIGHT
-            if ((i < 70) && (right == 1)) {
-                i++;
-            } else {
-                right = 0;
-                left = 1;
-            }
+// MOVE RIGHT
+if ((i < 70) && (right == 1)) {
+i++;
+} else {
+right = 0;
+left = 1;
+}
 
-            // MOVE LEFT
-            if ((i > 0) && (left == 1)) {
-                i--;
-            } else {
-                left = 0;
-                right = 1;
-            }
+// MOVE LEFT
+if ((i > 0) && (left == 1)) {
+i--;
+} else {
+left = 0;
+right = 1;
+}
 
-            ctx.translate(i, 0);
+ctx.translate(i, 0);
 
-            // 🔥 LOGO (DIPERKECIL)
-            ctx.drawImage(
-                logo,
-                70,
-                240,
-                logo.width / 8,
-                logo.height / 8
-            );
+// 🔥 LOGO (DIPERKECIL)
+ctx.drawImage(
+logo,
+70,
+240,
+logo.width / 8,
+logo.height / 8
+);
 
-            ctx.restore();
+ctx.restore();
 ```
