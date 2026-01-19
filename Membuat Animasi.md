@@ -126,3 +126,7 @@ Penjelasan:
 ```
 
 3. Tentukan waktu untuk memanggil method yang menampilkan animasi, waktu yang di tentukan adalah 30 milisecond
+
+```
+  setInterval(showAnimation, 30);
+```
