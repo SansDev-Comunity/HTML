@@ -47,4 +47,4 @@
 </html>
 ```
 
-![image]()
+![image](https://raw.githubusercontent.com/SansDev-Comunity/Pengenalan-HTML/refs/heads/main/img/drag%20and%20drop%20html.png)
